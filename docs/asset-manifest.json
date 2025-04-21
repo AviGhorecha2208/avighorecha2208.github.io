@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.50c267f6.css",
-    "main.js": "/static/js/main.e2893da1.js",
+    "main.css": "/static/css/main.93f58d98.css",
+    "main.js": "/static/js/main.efb13d80.js",
     "static/media/sellina.png": "/static/media/sellina.42b79c726b2aa7890dc2.png",
     "static/media/aviGhorecha.png": "/static/media/aviGhorecha.3990ec9b0e50fc7665f5.png",
     "static/media/tiez.png": "/static/media/tiez.8872f927a93727410a8a.png",
@@ -11,7 +11,7 @@
     "index.html": "/index.html"
   },
   "entrypoints": [
-    "static/css/main.50c267f6.css",
-    "static/js/main.e2893da1.js"
+    "static/css/main.93f58d98.css",
+    "static/js/main.efb13d80.js"
   ]
 }
